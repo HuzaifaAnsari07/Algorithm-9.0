@@ -108,8 +108,3 @@ Algorithm-9.0/
 
 This project is licensed under the MIT License. See `LICENSE` for more details.
 
----
-
-> 🔍 *“Building the future of healthcare, one algorithm at a time.”*
-
-
